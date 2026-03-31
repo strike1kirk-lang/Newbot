@@ -2,3 +2,4 @@ python-telegram-bot==21.6
 groq==0.11.0
 httpx==0.27.2
 aiohttp==3.9.5
+firebase-admin==6.5.0
